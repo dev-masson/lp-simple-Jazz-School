@@ -13,7 +13,7 @@ Este é um projeto simples de uma landing page para uma escola de jazz. O objeti
     -CSS
 
 #### Aviso Legal
-     Este projeto é fictício e todas as informações apresentadas são inventadas. Qualquer semelhança com escolas de jazz reais é mera coincidência.
+Este projeto é fictício e todas as informações apresentadas são inventadas. Qualquer semelhança com escolas de jazz reais é mera coincidência.
 
 ##### Autores
 - [Gabriel Masson](https://www.github.com/dev-masson)
